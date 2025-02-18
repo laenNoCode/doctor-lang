@@ -1,0 +1,13 @@
+T__0=1
+T__1=2
+T__2=3
+WORD=4
+ENDSTATEMENT=5
+COMMA=6
+SPACE=7
+NEWLINE=8
+':'=1
+'('=2
+')'=3
+';'=5
+','=6
